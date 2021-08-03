@@ -1,0 +1,13 @@
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\bin\Debug\netcoreapp3.1\LineComparisonProblem.exe
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\bin\Debug\netcoreapp3.1\LineComparisonProblem.deps.json
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\bin\Debug\netcoreapp3.1\LineComparisonProblem.runtimeconfig.json
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\bin\Debug\netcoreapp3.1\LineComparisonProblem.runtimeconfig.dev.json
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\bin\Debug\netcoreapp3.1\LineComparisonProblem.dll
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\bin\Debug\netcoreapp3.1\LineComparisonProblem.pdb
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\obj\Debug\netcoreapp3.1\LineComparisonProblem.csproj.AssemblyReference.cache
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\obj\Debug\netcoreapp3.1\LineComparisonProblem.AssemblyInfoInputs.cache
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\obj\Debug\netcoreapp3.1\LineComparisonProblem.AssemblyInfo.cs
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\obj\Debug\netcoreapp3.1\LineComparisonProblem.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\obj\Debug\netcoreapp3.1\LineComparisonProblem.dll
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\obj\Debug\netcoreapp3.1\LineComparisonProblem.pdb
+C:\Users\mvsan\day3\lineComparisonProblem\LineComparisonProblem\LineComparisonProblem\obj\Debug\netcoreapp3.1\LineComparisonProblem.genruntimeconfig.cache
